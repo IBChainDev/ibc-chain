@@ -1,5 +1,5 @@
-# dbx-chain-server
-> dbx 工具服务(nodejs)
+# ibc-chain-server
+> ibc 工具服务(nodejs)
 
 ## 运行环境
 
